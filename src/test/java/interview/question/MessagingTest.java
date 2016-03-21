@@ -11,7 +11,6 @@ import java.util.Observer;
 
 import static org.mockito.AdditionalMatchers.*;
 import static org.mockito.Matchers.*;
-import static org.mockito.Matchers.eq;
 import static org.mockito.Mockito.times;
 import static org.mockito.Mockito.verify;
 import static org.mockito.MockitoAnnotations.initMocks;
